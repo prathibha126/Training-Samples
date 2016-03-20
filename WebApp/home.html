@@ -1,0 +1,85 @@
+﻿
+<!--https://www.pointblankdevelopment.com.au/blog/getting-the-bootstrap-3-navbar-and-angularjs-to-play-nicely-together-->
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>BS</title>
+
+
+    <style>
+        a:hover {
+            background-color: yellow;
+        }
+
+        a:visited {
+            background-color: red;
+        } 
+
+    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/styles/Referenced/bootstrap.css" rel="stylesheet" />
+    <link href="/styles/Referenced/sticky-footer-navbar.css" rel="stylesheet" />
+</head>
+<body ng-app="myApp" ng-controller="myController">
+
+    <nav class="navbar navbar-inverse navbar-static-top">
+
+        <div class="container">
+
+            <div class="navbar-header">
+
+                <a class="navbar-brand" href="#">Sport Brands</a>
+
+                <!--<button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">-->
+                <button type="button" class="navbar-toggle" ng-click="isCollapsed = !isCollapsed">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                <!--<span class="label label-default" ng-bind="DateTime"></span>-->
+                <!--<span class="badge" ng-bind="DateTime"></span>-->
+
+            </div>
+
+            <!--<div class="collapse navbar-collapse navHeaderCollapse">-->
+            <!--<div class="collapse navbar-collapse" ng-class="isCollapsed ? 'collapse' : 'in'">-->
+            <div class="collapse navbar-collapse" ng-class="isCollapsed ? 'collapse' : ''">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#/nike">Nike</a></li>
+                    <li><a href="#/reebok">Reebok</a></li>
+                    <li><a href="#/adidas">Adidas</a></li>
+                </ul>
+            </div>
+
+            <!--<div>
+                <span class="nav navbar-nav navbar-right" ng-bind="DateTime"></span>
+            </div>-->
+           
+            
+        </div>
+
+    </nav>
+
+    <div ng-view="">
+        <!--PlaceHolder For Views-->
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <p class="text-muted" ng-bind="CreatorTagLine"></p>
+        </div>
+    </footer>
+
+    <div>
+        <script src="/scripts/Referenced/angular.js"></script>
+        <script src="/scripts/Referenced/angular-route.js"></script>
+        <script src="/scripts/Custom/app.js"></script>
+    </div>
+
+</body>
+</html>
+
+
