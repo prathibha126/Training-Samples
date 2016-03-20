@@ -1,0 +1,36 @@
+H:\04. PR\04. COE\Web Dev\02. Advanced\05. AngularJS\02. Course Material\12. Routes, Config & Location\Routes_Config_Views\Routes_Config_Views\bin\Routes_Config_Views.dll.config
+H:\04. PR\04. COE\Web Dev\02. Advanced\05. AngularJS\02. Course Material\12. Routes, Config & Location\Routes_Config_Views\Routes_Config_Views\bin\Routes_Config_Views.dll
+H:\04. PR\04. COE\Web Dev\02. Advanced\05. AngularJS\02. Course Material\12. Routes, Config & Location\Routes_Config_Views\Routes_Config_Views\bin\Routes_Config_Views.pdb
+H:\04. PR\04. COE\Web Dev\02. Advanced\05. AngularJS\02. Course Material\12. Routes, Config & Location\Routes_Config_Views\Routes_Config_Views\obj\Debug\Routes_Config_Views.dll
+H:\04. PR\04. COE\Web Dev\02. Advanced\05. AngularJS\02. Course Material\12. Routes, Config & Location\Routes_Config_Views\Routes_Config_Views\obj\Debug\Routes_Config_Views.pdb
+H:\04. PR\04. COE\Web Dev\02. Advanced\05. AngularJS\02. Course Material\12. Routes, Config & Location\Routes_Config_Views\Routes_Config_Views\obj\Debug\Routes_Config_Views.csprojResolveAssemblyReference.cache
+H:\04. PR\01. COE\Course Material\Vertical #2. JS\08. AngularJS\01. Course Material\Level 3 - AJS Best Practices\02. Routes & Config\Routes_Config_Views\Routes_Config_Views\bin\Routes_Config_Views.dll.config
+H:\04. PR\01. COE\Course Material\Vertical #2. JS\08. AngularJS\01. Course Material\Level 3 - AJS Best Practices\02. Routes & Config\Routes_Config_Views\Routes_Config_Views\bin\Routes_Config_Views.dll
+H:\04. PR\01. COE\Course Material\Vertical #2. JS\08. AngularJS\01. Course Material\Level 3 - AJS Best Practices\02. Routes & Config\Routes_Config_Views\Routes_Config_Views\bin\Routes_Config_Views.pdb
+H:\04. PR\01. COE\Course Material\Vertical #2. JS\08. AngularJS\01. Course Material\Level 3 - AJS Best Practices\02. Routes & Config\Routes_Config_Views\Routes_Config_Views\obj\Debug\Routes_Config_Views.csprojResolveAssemblyReference.cache
+H:\04. PR\01. COE\Course Material\Vertical #2. JS\08. AngularJS\01. Course Material\Level 3 - AJS Best Practices\02. Routes & Config\Routes_Config_Views\Routes_Config_Views\obj\Debug\Routes_Config_Views.dll
+H:\04. PR\01. COE\Course Material\Vertical #2. JS\08. AngularJS\01. Course Material\Level 3 - AJS Best Practices\02. Routes & Config\Routes_Config_Views\Routes_Config_Views\obj\Debug\Routes_Config_Views.pdb
+H:\Data\04. PR\02. Training\03. Material\01. JS\04. SPA\01. AngularJS\01. Material\03. AJS Best Practices\02. Routes & Config\Routes_Config_Views\Routes_Config_Views\bin\Routes_Config_Views.dll.config
+H:\Data\04. PR\02. Training\03. Material\01. JS\04. SPA\01. AngularJS\01. Material\03. AJS Best Practices\02. Routes & Config\Routes_Config_Views\Routes_Config_Views\bin\Routes_Config_Views.dll
+H:\Data\04. PR\02. Training\03. Material\01. JS\04. SPA\01. AngularJS\01. Material\03. AJS Best Practices\02. Routes & Config\Routes_Config_Views\Routes_Config_Views\bin\Routes_Config_Views.pdb
+H:\Data\04. PR\02. Training\03. Material\01. JS\04. SPA\01. AngularJS\01. Material\03. AJS Best Practices\02. Routes & Config\Routes_Config_Views\Routes_Config_Views\obj\Debug\Routes_Config_Views.csprojResolveAssemblyReference.cache
+H:\Data\04. PR\02. Training\03. Material\01. JS\04. SPA\01. AngularJS\01. Material\03. AJS Best Practices\02. Routes & Config\Routes_Config_Views\Routes_Config_Views\obj\Debug\Routes_Config_Views.dll
+H:\Data\04. PR\02. Training\03. Material\01. JS\04. SPA\01. AngularJS\01. Material\03. AJS Best Practices\02. Routes & Config\Routes_Config_Views\Routes_Config_Views\obj\Debug\Routes_Config_Views.pdb
+F:\04. PR\02. Training\03. Material\01. JS\04. SPA\01. AngularJS\01. Material\03. Advanced Level\02. Routes & Config\Routes_Config_Views\Routes_Config_Views\bin\Routes_Config_Views.dll.config
+F:\04. PR\02. Training\03. Material\01. JS\04. SPA\01. AngularJS\01. Material\03. Advanced Level\02. Routes & Config\Routes_Config_Views\Routes_Config_Views\bin\Routes_Config_Views.dll
+F:\04. PR\02. Training\03. Material\01. JS\04. SPA\01. AngularJS\01. Material\03. Advanced Level\02. Routes & Config\Routes_Config_Views\Routes_Config_Views\bin\Routes_Config_Views.pdb
+F:\04. PR\02. Training\03. Material\01. JS\04. SPA\01. AngularJS\01. Material\03. Advanced Level\02. Routes & Config\Routes_Config_Views\Routes_Config_Views\obj\Debug\Routes_Config_Views.dll
+F:\04. PR\02. Training\03. Material\01. JS\04. SPA\01. AngularJS\01. Material\03. Advanced Level\02. Routes & Config\Routes_Config_Views\Routes_Config_Views\obj\Debug\Routes_Config_Views.pdb
+F:\04. PR\02. Training\03. Material\01. JS\04. SPA\01. AngularJS\01. Material\03. Advanced Level\02. Routes & Config\Routes_Config_Views\Routes_Config_Views\obj\Debug\Routes_Config_Views.csprojResolveAssemblyReference.cache
+E:\04. PR\00. COE\01. JS\04. SPA\01. AngularJS\01. Material\03. Advanced Level\05. Routes & Config\Routes_Config_Views-1\Routes_Config_Views\bin\Routes_Config_Views.dll.config
+E:\04. PR\00. COE\01. JS\04. SPA\01. AngularJS\01. Material\03. Advanced Level\05. Routes & Config\Routes_Config_Views-1\Routes_Config_Views\bin\Routes_Config_Views.dll
+E:\04. PR\00. COE\01. JS\04. SPA\01. AngularJS\01. Material\03. Advanced Level\05. Routes & Config\Routes_Config_Views-1\Routes_Config_Views\bin\Routes_Config_Views.pdb
+E:\04. PR\00. COE\01. JS\04. SPA\01. AngularJS\01. Material\03. Advanced Level\05. Routes & Config\Routes_Config_Views-1\Routes_Config_Views\obj\Debug\Routes_Config_Views.dll
+E:\04. PR\00. COE\01. JS\04. SPA\01. AngularJS\01. Material\03. Advanced Level\05. Routes & Config\Routes_Config_Views-1\Routes_Config_Views\obj\Debug\Routes_Config_Views.pdb
+E:\04. PR\00. COE\01. JS\04. SPA\01. AngularJS\01. Material\03. Advanced Level\05. Routes & Config\Routes_Config_Views-1\Routes_Config_Views\obj\Debug\Routes_Config_Views.csprojResolveAssemblyReference.cache
+C:\Users\rachanti\Desktop\Data Backup\My Documents\Tech\ExternalTraining\Angular&AdvJS\Facset - AngularJS- Session 2\05. Routes & Config\Routes_Config_Views- 1\Routes_Config_Views\bin\Routes_Config_Views.dll.config
+C:\Users\rachanti\Desktop\Data Backup\My Documents\Tech\ExternalTraining\Angular&AdvJS\Facset - AngularJS- Session 2\05. Routes & Config\Routes_Config_Views- 1\Routes_Config_Views\bin\Routes_Config_Views.dll
+C:\Users\rachanti\Desktop\Data Backup\My Documents\Tech\ExternalTraining\Angular&AdvJS\Facset - AngularJS- Session 2\05. Routes & Config\Routes_Config_Views- 1\Routes_Config_Views\bin\Routes_Config_Views.pdb
+C:\Users\rachanti\Desktop\Data Backup\My Documents\Tech\ExternalTraining\Angular&AdvJS\Facset - AngularJS- Session 2\05. Routes & Config\Routes_Config_Views- 1\Routes_Config_Views\obj\Debug\Routes_Config_Views.csprojResolveAssemblyReference.cache
+C:\Users\rachanti\Desktop\Data Backup\My Documents\Tech\ExternalTraining\Angular&AdvJS\Facset - AngularJS- Session 2\05. Routes & Config\Routes_Config_Views- 1\Routes_Config_Views\obj\Debug\Routes_Config_Views.dll
+C:\Users\rachanti\Desktop\Data Backup\My Documents\Tech\ExternalTraining\Angular&AdvJS\Facset - AngularJS- Session 2\05. Routes & Config\Routes_Config_Views- 1\Routes_Config_Views\obj\Debug\Routes_Config_Views.pdb

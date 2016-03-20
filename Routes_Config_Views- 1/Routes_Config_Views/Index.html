@@ -1,0 +1,45 @@
+<html>
+
+<head>
+    <style>
+        a:hover {
+            background-color: yellow;
+        }
+
+        a:visited {
+            background-color: red;
+        }
+
+        #link:visited {
+            
+        }
+    </style>
+
+    <title>AJS</title>
+</head>
+
+<body ng-app="MainModule">
+
+    <div>
+
+        <div>Single Page Application (SPA)</div>
+        <br />
+
+        <div ng-view="">
+           
+        </div>
+        <br />
+
+        <div>
+            <a id="link1" ng-href="#View1">View1</a> | <a ng-href="#View2">View2</a> | <a ng-href="#View3">View3</a>
+        </div>
+
+    </div>
+
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-route.js"></script>
+    <script src="Scripts/MainModule.js"></script>
+
+</body>
+
+</html>

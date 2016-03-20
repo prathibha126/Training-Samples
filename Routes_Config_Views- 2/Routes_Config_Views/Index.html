@@ -1,0 +1,31 @@
+<html>
+
+<head>
+    <title>AJS</title>
+</head>
+
+<body ng-app="MainModule">
+
+    <div>
+
+        <div>Single Page Application (SPA)</div>
+        <br />
+
+        <div ng-view="">
+            <!--PlaceHolder For Different Views-->
+        </div>
+        <br />
+
+        <div>
+            <a ng-href="#View1">View1</a> | <a ng-href="#View2/123">View2</a> 
+        </div>
+
+    </div>
+
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-route.js"></script>
+    <script src="Scripts/MainModule.js"></script>
+
+</body>
+
+</html>
